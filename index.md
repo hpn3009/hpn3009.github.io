@@ -1,6 +1,6 @@
 # Hong Nguyen's portfolio
 
-I am a electrical engineering major at CSUF and I plan on graduating in 2028.
+I am an electrical engineering major at CSUF, and I plan on graduating in 2028.
 
 ## Favorite CPCS 120L Labs
 
