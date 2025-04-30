@@ -2,6 +2,8 @@
 
 I am an electrical engineering major at CSUF, and I plan on graduating in 2028.
 
+### [My Github Profile](https://github.com/hpn3009)
+
 ## Favorite CPCS 120L Labs
 
 Lab 9, Part 1
